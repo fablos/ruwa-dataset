@@ -1,7 +1,6 @@
 # RUWA Dataset 
 
-# RUWA dataset
-RUWA (Russian-Ukraine WAr) dataset includes more than 16,500 news articles from several media outlets in Ukraine, Russia, European, Asia, and the USA covering the nine  Russian-Ukraine war events from February 2022 to September 2022.  Table 1 and table 2 show the article distributions by selected news outlets and events. 
+The RUWA (Russian-Ukraine WAr) dataset includes more than 16,500 news articles from several media outlets in Ukraine, Russia, European, Asia, and the USA covering the nine  Russian-Ukraine war events from February 2022 to September 2022.  Table 1 and table 2 show the article distributions by selected news outlets and events. 
 ##### Distribution dataset articles by outlets
 
 | Sources | Articles |
